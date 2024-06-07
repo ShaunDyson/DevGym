@@ -1,2 +1,2 @@
 # DevGym
-DevGym is a platform for daily training in basic skills.
+DevGym is a platform for daily training in basic skills, such as software configuration, common APIs, and algorithms. Users receive tutorials and are encouraged to complete tasks without internet assistance (ideally without an IDE). This approach helps developers retain their existing knowledge and prevent skill decay. For example, after not writing Python code for a month, one might forget how to write a simple for loop. DevGym aims to keep such fundamental skills sharp through regular practice.
